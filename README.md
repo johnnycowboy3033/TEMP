@@ -1,3 +1,6 @@
+
+- Designed and implemented scalable microservices architecture using Spring Boot, integrated with RabbitMQ/Kafka for efficient messaging and communication between services.
+
 Submission Details:
 
 · Full Legal name of Candidate: John Joseph Cusey
