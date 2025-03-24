@@ -30,7 +30,7 @@ Start Date and End Date: June 2019 - Present
 Organization/Company name: United States Department of the Treasury, Internal Revenue Service(IRS) 
 POC Name: Samiul Islam
 P OC title: IT Specialist 
-POC Email: Isaac.H.Luong@irs.gov
+POC Email: samiul.islam@irs.gov
 POC phone: 214-281-6841
 Start Date and End Date: June 2019 - Present
 
